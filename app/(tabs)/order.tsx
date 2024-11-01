@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <SafeAreaView>
       <View>
-        <Text>Home</Text>
+        <Text>Order</Text>
       </View>
     </SafeAreaView>
   );
